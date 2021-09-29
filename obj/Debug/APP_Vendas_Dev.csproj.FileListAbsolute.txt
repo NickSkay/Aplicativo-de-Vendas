@@ -1,0 +1,10 @@
+C:\Users\nicos\source\repos\APP_Vendas_Dev\bin\Debug\APP_Vendas_Dev.exe.config
+C:\Users\nicos\source\repos\APP_Vendas_Dev\bin\Debug\APP_Vendas_Dev.exe
+C:\Users\nicos\source\repos\APP_Vendas_Dev\bin\Debug\APP_Vendas_Dev.pdb
+C:\Users\nicos\source\repos\APP_Vendas_Dev\obj\Debug\APP_Vendas_Dev.csproj.AssemblyReference.cache
+C:\Users\nicos\source\repos\APP_Vendas_Dev\obj\Debug\APP_Vendas_Dev.vendas.resources
+C:\Users\nicos\source\repos\APP_Vendas_Dev\obj\Debug\APP_Vendas_Dev.Properties.Resources.resources
+C:\Users\nicos\source\repos\APP_Vendas_Dev\obj\Debug\APP_Vendas_Dev.csproj.GenerateResource.cache
+C:\Users\nicos\source\repos\APP_Vendas_Dev\obj\Debug\APP_Vendas_Dev.csproj.CoreCompileInputs.cache
+C:\Users\nicos\source\repos\APP_Vendas_Dev\obj\Debug\APP_Vendas_Dev.exe
+C:\Users\nicos\source\repos\APP_Vendas_Dev\obj\Debug\APP_Vendas_Dev.pdb
